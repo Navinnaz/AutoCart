@@ -1,4 +1,4 @@
-# Just clone the repository using giut clone <https-url>
+# Just clone the repository using git clone <https-url>
 # Open the project in vscode, open a terminal.
 # Type npm start
 # Please don't mind the UI and the limited functionality. Its just a start
