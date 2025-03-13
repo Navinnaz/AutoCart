@@ -1,3 +1,13 @@
+# Just clone the repository using giut clone <https-url>
+# Open the project in vscode, open a terminal.
+# Type npm start
+# Please don't mind the UI and the limited functionality. Its just a start
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
